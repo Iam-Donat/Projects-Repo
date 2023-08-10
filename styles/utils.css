@@ -23,7 +23,7 @@
   text-decoration: none;
   letter-spacing: -0.05em;
   background-color: var(--clr-rose);
-  color: var(--clr-light);
+  color: #f1f5f9;
   padding: .5em 1em;
   border-radius: 6px;
   box-shadow: 0 10px 20px rgba(225, 29, 72, 0.5),
@@ -45,7 +45,7 @@
   margin-right: auto;
   padding-left: .5rem;
   padding-right: .5rem;
-  border: 2px solid green;
+  /* border: 2px solid green; */
 }
 
 .section {
@@ -56,7 +56,7 @@
 @media (min-width: 475px) {
   .container {
     max-width: 475px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
   }
 }
 
@@ -64,7 +64,7 @@
 @media (min-width: 640px) {
   .container {
     max-width: 640px;
-    border: 2px solid goldenrod;
+    /* border: 2px solid goldenrod; */
   }
 }
 
@@ -72,7 +72,7 @@
 @media (min-width: 768px) {
   .container {
     max-width: 768px;
-    border: 2px solid orange;
+    /* border: 2px solid orange; */
   }
 }
 
@@ -80,7 +80,7 @@
 @media (min-width: 1024px) {
   .container {
     max-width: 1024px;
-    border: 2px solid pink;
+    /* border: 2px solid pink; */
   }
 
   .section {
@@ -92,7 +92,7 @@
 @media (min-width: 1280px) {
   .container {
     max-width: 1280px;
-    border: 2px solid teal;
+    /* border: 2px solid teal; */
   }
 }
 
@@ -100,6 +100,6 @@
 @media (min-width: 1536px) {
   .container {
     max-width: 1536px;
-    border: 2px solid wheat;
+    /* border: 2px solid wheat; */
   }
 }
