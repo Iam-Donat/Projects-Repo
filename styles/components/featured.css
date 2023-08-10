@@ -68,7 +68,7 @@
   position: relative;
 }
 
-.featured__img-wrapper::after {
+.featured__img-wrapper::before {
   content: '';
   background-color: rgba(79, 70, 229, .4);
   width: 100%;
@@ -80,7 +80,7 @@
   transition: background-color .3s;
 }
 
-.featured__img-wrapper:hover::after {
+.featured__img-wrapper:hover::before {
   background-color: rgba(79, 70, 229, .1);
 }
 
