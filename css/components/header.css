@@ -2,7 +2,8 @@
   display: flex;
   overflow: hidden;
 
-  outline: 2px solid brown;
+  /* outline: 2px solid brown; */
+  height: 74px;
 }
 
 .header__logo {
@@ -12,7 +13,7 @@
   position: relative;
   padding: 20px;
 
-  outline: 2px solid brown;
+  /* outline: 2px solid brown; */
 }
 
 .header__logo-overlay {
@@ -31,6 +32,7 @@
   z-index: 99;
 
   font-size: 20px;
+  text-transform: uppercase;
 }
 
 .header__menu,
