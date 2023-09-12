@@ -1,9 +1,6 @@
 .header__nav {
   display: flex;
   overflow: hidden;
-
-  /* outline: 2px solid brown; */
-  height: 74px;
 }
 
 .header__logo {
@@ -12,8 +9,6 @@
 
   position: relative;
   padding: 20px;
-
-  /* outline: 2px solid brown; */
 }
 
 .header__logo-overlay {
@@ -31,7 +26,7 @@
   color: #fff;
   z-index: 99;
 
-  font-size: 20px;
+  font-size: 16px;
   text-transform: uppercase;
 }
 
