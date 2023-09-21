@@ -6,9 +6,9 @@
 @import url("components/hero.css");
 @import url("components/about.css");
 @import url("components/popular.css");
-@import url("components/trending.css");
-@import url("components/subscribe.css");
-@import url("components/footer.css");
+/* @import url("components/trending.css"); */
+/* @import url("components/subscribe.css"); */
+/* @import url("components/footer.css"); */
 
 /* CSS variables for reusablity across all files (including above imported) */
 :root {
